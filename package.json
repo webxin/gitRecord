@@ -1,0 +1,22 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "git is a rewrite control system��\r git is free software add GPL��\r git has a mul\r git add four line\r git add five line\r this is a dev branch\r this is a master branch and  a feature1 branch\r this is other dev\r bug\r reverse dev branch\r reverse bug1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webxin/gitRecord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webxin/gitRecord/issues"
+  },
+  "homepage": "https://github.com/webxin/gitRecord#readme",
+  "devDependencies": {
+    "webpack": "^4.22.0"
+  }
+}
