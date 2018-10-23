@@ -6,5 +6,6 @@ git add five line
 this is a dev branch
 this is a master branch and  a feature1 branch
 this is other dev
-修改了一个bug
+bug
 reverse dev branch
+reverse bug1
