@@ -7,3 +7,4 @@ this is a dev branch
 this is a master branch and  a feature1 branch
 this is other dev
 reverse dev branch
+reverse bug1
